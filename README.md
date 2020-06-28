@@ -24,7 +24,7 @@ Blender audio visualiser
 
 8. Change the parameter 'audiofile' to the audio file you want to work with and use '\\' between directories (see the description in the file for an example)
 
-    audiofile = "**C:\\Users\\Public\\Desktop\\audio_file.mp3**" # use double '\\' between directories
+    audiofile = "**C:\\\Users\\\Public\\Desktop\\\audio_file.mp3**" # use double '\\\\' between directories
 
 
 9. Window > Toggle System Console, if you want to see the script run
