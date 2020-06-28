@@ -41,4 +41,11 @@ Notes:
 
 a) You may need to change the z-gravity value to ensure it runs straight in the y-axis.
 
+![Z gravity](https://github.com/enber-music/enVisualiser/blob/master/instruction_images/gravity.PNG)
+
 b) If you want to re-run the script to change the settings, it's easiest to delete all the 'musicbar.00x' and 'ParticleIso' from the model tree by highlighting>delete in one go
+
+c) Render settings used:
+
+![Render settings](https://github.com/enber-music/enVisualiser/blob/master/instruction_images/render_settings.PNG)
+
