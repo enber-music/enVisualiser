@@ -33,7 +33,7 @@ Blender audio visualiser
 
 ![Run script](https://github.com/enber-music/enVisualiser/blob/master/instruction_images/run_script.PNG)
 
-11. The system console will print out the process. When it does, go back to layout and press spacebar to play your audio along with watching the visualisation :-)
+11. The system console will print out the process. When it has finished, go back to layout and press spacebar to play your audio along with watching the visualisation :-)
 
 12. Move/edit the camera as desired. Tip: if you move the viewscreen in 'layout', click the camera from the object tree and then press CTRL+ALT+0 it will snap the camera to your current view.
 
