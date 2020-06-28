@@ -23,16 +23,14 @@ Blender audio visualiser
 7. Copy-paste the contents of enVisualiser.py to this next text file
 
 8. Change the parameter 'audiofile' to the audio file you want to work with and use '\\' between directories (see the description in the file for an example)
-  audiofile = "**C:\\Users\\Public\\Desktop\\audio_file.mp3**" # use double '\\' between directories
-  no_bars = 64 # number of points generating audio response
-  baroffset=0.25 # Generally between 0.1 and 1 works best
-  grav_speed = 20 # controls speed and distance particles travel before stopping
-  no_parts = 5000 # number of particles
-  part_life = 75 # how long particles last
+
+    audiofile = "**C:\\Users\\Public\\Desktop\\audio_file.mp3**" # use double '\\' between directories
+
 
 9. Window > Toggle System Console, if you want to see the script run
 
 10. Hit the play button at the top of the script
+
 ![Run script](https://github.com/enber-music/enVisualiser/blob/master/instruction_images/run_script.PNG)
 
 11. The system console will print out the process. When it does, go back to layout and press spacebar to play your audio along with watching the visualisation :-)
