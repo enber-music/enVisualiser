@@ -20,7 +20,7 @@ Blender audio visualiser
 
 ![Add new text](https://github.com/enber-music/enVisualiser/blob/master/instruction_images/new_text.PNG)
 
-7. Copy-paste the contents of enVisualiser.py to this next text file
+7. Copy-paste the contents of enVisualiser.py to this new text file
 
 8. Change the parameter 'audiofile' to the audio file you want to work with and use '\\' between directories (see the description in the file for an example)
 
