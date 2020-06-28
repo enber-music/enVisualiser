@@ -7,7 +7,7 @@ Blender audio visualiser
 
 ![Add new material](https://github.com/enber-music/enVisualiser/blob/master/instruction_images/new_material.PNG)
 
-3. Create a new material and call it 'PARTICLE' (case sensitive). You should delete the default boxes and replace with the ones below. To add a box, click on the 'Add' button then start typing to search for the specific box/node.
+3. Create a new material and call it 'PARTICLE' (case sensitive). You should delete the default boxes and replace with the ones below. To add a box, click on the 'Add' button then start typing to search for the specific box/node. Colours can be changed in the 'ColorRamp' box and brightness of the particles in the Emission 'Strength' box.
 ![Add new material](https://github.com/enber-music/enVisualiser/blob/master/instruction_images/PARTICLE_material.PNG)
 
 4. You can now delete the default box.
