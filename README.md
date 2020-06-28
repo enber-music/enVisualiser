@@ -1,5 +1,5 @@
 # enVisualiser
-Blender audio visualiser
+Blender audio visualiser - See examples here https://youtu.be/8dG4wDsQDYw
 
 1. Start an instance of blender and delete the default point light
 
