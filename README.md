@@ -22,7 +22,7 @@ Blender audio visualiser
 
 7. Copy-paste the contents of enVisualiser.py to this new text file
 
-8. Change the parameter 'audiofile' to the audio file you want to work with and use '\\' between directories (see the description in the file for an example)
+8. Change the parameter 'audiofile' to the audio file you want to work with and use '\\\\' between directories (see the description in the file for an example)
 
     audiofile = "**C:\\\Users\\\Public\\Desktop\\\audio_file.mp3**" # use double '\\\\' between directories
 
