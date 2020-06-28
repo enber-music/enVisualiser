@@ -38,5 +38,7 @@ Blender audio visualiser
 12. Move/edit the camera as desired. Tip: if you move the viewscreen in 'layout', click the camera from the object tree and then press CTRL+ALT+0 it will snap the camera to your current view.
 
 Notes:
+
 a) You may need to change the z-gravity value to ensure it runs straight in the y-axis.
+
 b) If you want to re-run the script to change the settings, it's easiest to delete all the 'musicbar.00x' and 'ParticleIso' from the model tree by highlighting>delete in one go
