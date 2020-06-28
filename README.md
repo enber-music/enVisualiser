@@ -13,9 +13,11 @@ Blender audio visualiser
 4. You can now delete the default box.
 
 5. In the top tabs click the '+' button to add workspace. Add General > Scripting
-![Add scripting tab](https://github.com/enber-music/enVisualiser/blob/master/instruction_images/add_scripting.PNG)
+
+![Add scripting tab](https://github.com/enber-music/enVisualiser/blob/master/instruction_images/add_scripting.png)
 
 6. Ensure that 'text editor' is selected (shift F11), click New 'data text block'
+
 ![Add new text](https://github.com/enber-music/enVisualiser/blob/master/instruction_images/new_text.PNG)
 
 7. Copy-paste the contents of enVisualiser.py to this next text file
